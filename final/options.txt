@@ -1,0 +1,8 @@
+[Heroes]
+ Only 1 hero :( Press space to begin a charge. Sion charges starting slowly and gaining speed over time. Colliding with enemies during a charge results in a kill.
+hero:1
+[Enemies] Rock = 1 Fire = 2 Bullet = 3 Sinistar = 4 
+enemyA:3	
+enemyB:2
+[Views] view 1 uses visuals to display info, view 2 displays raw numbers
+view:1
